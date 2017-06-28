@@ -1,84 +1,84 @@
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Vidly.dll.config
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Vidly.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Vidly.pdb
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Antlr3.Runtime.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\AutoMapper.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\EntityFramework.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Glimpse.Ado.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Glimpse.AspNet.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Glimpse.Core.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Glimpse.EF6.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Glimpse.Mvc5.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Newtonsoft.Json.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Owin.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Net.Http.Formatting.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Helpers.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Http.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Http.WebHost.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Mvc.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Optimization.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Razor.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.WebPages.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Razor.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\WebGrease.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\AutoMapper.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Net.Http.Formatting.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Http.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Http.WebHost.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Helpers.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Mvc.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Optimization.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.Razor.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.WebPages.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Razor.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Antlr3.Runtime.pdb
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Newtonsoft.Json.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\EntityFramework.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\EntityFramework.SqlServer.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.dll
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.pdb
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddRentalClass.resources
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableInMovies.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Vidly.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Vidly.pdb
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Glimpse.Ado.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Glimpse.Core.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Glimpse.EF6.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Owin.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\WebGrease.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\AutoMapper.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRentalClass.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableInMovies.resources
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\mnieto\Documents\Cursos\.NET MVC\Codigo\.NET-MVC-Vidly\Vidly\obj\Debug\Vidly.pdb

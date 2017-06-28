@@ -8,6 +8,7 @@ namespace Vidly.Controllers
 {
     public class RentalsController : Controller
     {
+        [AllowAnonymous]
         // GET: Rentals
         public ActionResult New()
         {
